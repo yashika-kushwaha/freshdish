@@ -1,11 +1,11 @@
-import g1 from "../assets/images/dis-1(1).jpg";
-import g2 from "../assets/images/dis-1(2).jpg";
-import g3 from "../assets/images/dis-1(3).jpg";
-import g4 from "../assets/images/dis-1(4).jpg";
-import g5 from "../assets/images/dis-1(5).jpg";
-import g6 from "../assets/images/dis-1(6).jpg";
-import g7 from "../assets/images/dis-1(7).jpg";
-import g8 from "../assets/images/dis-1(8).jpg";
+import g1 from "../assets/images/dis1(1).jpg";
+import g2 from "../assets/images/dis1(2).jpg";
+import g3 from "../assets/images/dis1(3).jpg";
+import g4 from "../assets/images/dis1(4).jpg";
+import g5 from "../assets/images/dis1(5).jpg";
+import g6 from "../assets/images/dis1(6).jpg";
+import g7 from "../assets/images/dis1(7).jpg";
+import g8 from "../assets/images/dis1(8).jpg";
 
 export default function Gallery() {
   const galleryImages = [g1, g2, g3, g4, g5, g6, g7, g8];

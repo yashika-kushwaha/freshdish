@@ -1,4 +1,4 @@
-import heroImg from "../assets/images/delicious-food.png";
+import heroImg from "../assets/images/deliciousfood.png";
 import riderImg from "../assets/images/menriding.png";
 
 export default function Hero() {

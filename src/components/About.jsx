@@ -1,4 +1,4 @@
-import aboutImg from "../assets/images/modern-food.png";
+import aboutImg from "../assets/images/modernfood.png";
 
 export default function About() {
   return (

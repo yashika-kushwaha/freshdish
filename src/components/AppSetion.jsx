@@ -1,5 +1,5 @@
 import React from "react";
-import appImage from "../assets/Images/movil-app.png";
+import appImage from "../assets/Images/movilapp.png";
 import appStore from "../assets/Images/app1.png";
 import googlePlay from "../assets/Images/app2.png";
 
