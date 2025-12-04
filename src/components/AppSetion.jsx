@@ -1,7 +1,7 @@
 import React from "react";
-import appImage from "../assets/Images/movilapp.png";
-import appStore from "../assets/Images/app1.png";
-import googlePlay from "../assets/Images/app2.png";
+import appImage from "../assets/images/movilapp.png";
+import appStore from "../assets/images/app1.png";
+import googlePlay from "../assets/images/app2.png";
 
 function AppSection() {
   return (
