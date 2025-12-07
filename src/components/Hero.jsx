@@ -1,6 +1,6 @@
-import heroImg from "../assets/images/dis1.jpg";
+import heroImg from "/assets/images/dis1.jpg";
 
-import riderImg from "/src/assets/images/menriding.png";
+import riderImg from "src/assets/images/dis1.jpg";
 
 export default function Hero() {
     return (
