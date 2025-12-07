@@ -1,6 +1,6 @@
-import freshFood from "../assets/images/Menu2.png";
-import easyPayments from "../assets/images/easyPayments.png";
-import delivery from "../assets/images/menriding.png";
+import freshFood from "/assets/images/Menu2.png";
+import easyPayments from "/assets/images/easyPayments.png";
+import delivery from "/assets/images/menriding.png";
 
 export default function Features() {
   const features = [

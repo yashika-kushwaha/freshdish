@@ -1,17 +1,17 @@
 import { useNavigate } from "react-router-dom";
 
-import dish1 from "../assets/images/Menu1.png";
-import dish2 from "../assets/images/Menu2.png";
-import dish3 from "../assets/images/Menu3.png";
-import dish4 from "../assets/images/Menu4.png";
-import dish5 from "../assets/images/Menu5.png";
-import dish6 from "../assets/images/Menu6.png";
-import dish7 from "../assets/images/Menu7.png";
-import dish8 from "../assets/images/Menu8.png";
-import dish9 from "../assets/images/Menu9.png";
-import dish10 from "../assets/images/Menu10.png";
-import dish11 from "../assets/images/Menu11.png";
-import dish12 from "../assets/images/Menu12.png";
+import dish1 from "/assets/images/Menu1.png";
+import dish2 from "/assets/images/Menu2.png";
+import dish3 from "/assets/images/Menu3.png";
+import dish4 from "/assets/images/Menu4.png";
+import dish5 from "/assets/images/Menu5.png";
+import dish6 from "/assets/images/Menu6.png";
+import dish7 from "/assets/images/Menu7.png";
+import dish8 from "/assets/images/Menu8.png";
+import dish9 from "/assets/images/Menu9.png";
+import dish10 from "/assets/images/Menu10.png";
+import dish11 from "/assets/images/Menu11.png";
+import dish12 from "/assets/images/Menu12.png";
 
 export default function Menu() {
   const navigate = useNavigate();
