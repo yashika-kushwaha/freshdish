@@ -43,7 +43,7 @@ export default function Hero() {
                     <img
   src={heroImg}
   alt="Delicious Food"
-  className="w-[480px] drop-shadow-xl animate-float rounded-[50%]"
+  className="w-[480px] drop-shadow-xl animate-float rounded-[6%]"
 />
 
 
