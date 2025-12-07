@@ -1,6 +1,6 @@
 import heroImg from "/assets/images/dis1.jpg";
 
-import riderImg from "src/assets/images/dis1.jpg";
+import riderImg from "/assets/images/menriding.png";
 
 export default function Hero() {
     return (
@@ -41,10 +41,11 @@ export default function Hero() {
                 {/* Right Section */}
                 <div className="relative hidden lg:flex items-center justify-center">
                     <img
-                        src={heroImg}
-                        alt="Delicious Food"
-                        className="w-[480px] drop-shadow-xl animate-float"
-                    />
+  src={heroImg}
+  alt="Delicious Food"
+  className="w-[480px] drop-shadow-xl animate-float rounded-[50%]"
+/>
+
 
                     <img
                         src={riderImg}
