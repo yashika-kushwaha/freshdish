@@ -1,4 +1,5 @@
 import heroImg from "../assets/images/dis1.jpg";
+
 import riderImg from "/src/assets/images/menriding.png";
 
 export default function Hero() {
