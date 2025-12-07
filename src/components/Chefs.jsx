@@ -1,6 +1,6 @@
-import chef1 from "../assets/images/AnayaSingh.jpg";
-import chef2 from "../assets/images/amritamorya.png";
-import chef3 from "../assets/images/RinaThomas.png";
+import chef1 from "/assets/images/AnayaSingh.jpg";
+import chef2 from "/assets/images/amritamorya.png";
+import chef3 from "/assets/images/RinaThomas.png";
 
 export default function Chefs() {
   const chefs = [
